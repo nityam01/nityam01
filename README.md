@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey...👋
 
 <!--
 **nityam01/nityam01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
